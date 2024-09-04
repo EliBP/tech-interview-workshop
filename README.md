@@ -23,9 +23,13 @@ Below are the instructions for this assignment. Your repository should automatic
 ### 📝 TODO: Complete this section
 
 * **Your name and PID**:
+* Eli Bullock-Papa (elibp13)
 
 * **Your partner's name and PID:**
+* Rishi Sing (rishisingh)
 
 * **Link to selected coding challenge:**
+* https://leetcode.com/problems/unique-number-of-occurrences/?envType=study-plan-v2&envId=leetcode-75
 
 * **Summary of partner's interview feedback:**
+* Learn the syntax better and be more vocal
